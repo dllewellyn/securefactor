@@ -18,7 +18,7 @@ dependencies {
 }
 ```
 
-![](obfuscate.gif)
+![](https://media.giphy.com/media/gHEOV5H1rdrFizs1xJ/giphy.gif)
 
 
 ## Migrating to EncryptedSharedPreferences and EncryptedFile
@@ -32,9 +32,9 @@ implementation "androidx.security:security-crypto:1.0.0-alpha02"
 
 ### Converting to encrypted shared preferences
 
-![](encryptedsharedprefs.git)
+![](https://media.giphy.com/media/cO9C7TrYxpj3cZehf1/giphy.gif)
 
 
 ### Converting to encrypted file
 
-![](encryptedfile.gif)
+![](https://media.giphy.com/media/Tiy7rjLrFtB125EwvK/giphy.gif)
