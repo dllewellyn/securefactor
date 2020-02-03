@@ -1,4 +1,5 @@
-# securefactor
+# Android SecuRefactor 
+
 Intellij plugin for secure Android refactoring
 
 
