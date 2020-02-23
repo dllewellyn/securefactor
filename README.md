@@ -41,6 +41,16 @@ dependencies {
     implementation 'com.secure.obfuscated:kotlin-string-obfuscator:1.0.0' // Check latest version first! 
 }
 ```
-
 ![](https://media.giphy.com/media/gHEOV5H1rdrFizs1xJ/giphy.gif)
+
+
+## Migrate to SQL Cipher
+
+Import the library 
+
+
+```
+implementation 'net.zetetic:android-database-sqlcipher:4.3.0@aar'
+implementation "androidx.sqlite:sqlite:2.0.1"
+```
 
