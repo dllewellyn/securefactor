@@ -54,3 +54,4 @@ implementation 'net.zetetic:android-database-sqlcipher:4.3.0@aar'
 implementation "androidx.sqlite:sqlite:2.0.1"
 ```
 
+![](sqlcipher.gif)
